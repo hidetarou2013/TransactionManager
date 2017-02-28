@@ -302,8 +302,8 @@
 							<goal>install-node-and-npm</goal>
 						</goals>
 						<configuration>
-							<nodeVersion>v6.3.1</nodeVersion>
-							<npmVersion>3.9.5</npmVersion>
+							<nodeVersion>v6.9.2</nodeVersion>
+							<npmVersion>3.10.9</npmVersion>
 						</configuration>
 					</execution>
 
