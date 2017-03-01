@@ -24,8 +24,8 @@
 <!-- 			</list> -->
 <!-- 		</property> -->
 	</bean>
-	
-	
+
+
 <!-- 	<mvc:resources mapping="/robots.txt" location="/robots.txt" order="0"/>
 	<mvc:resources mapping="/sitemap.xml" location="/sitemap.xml" order="0"/>
 	<mvc:resources mapping="/images/**" location="/static/images/" />
@@ -49,9 +49,9 @@
 <!-- 		<property name="username" value="admin3GIzagt" /> -->
 <!-- 		<property name="password" value="GIAbPGEpubh-" /> -->
 		<property name="driverClassName" value="com.mysql.jdbc.Driver" />
-		<property name="url" value="jdbc:mysql://127.0.0.1:3306/test1" />
+		<property name="url" value="jdbc:mysql://127.0.0.1:13306/test1" />
 		<property name="username" value="root" />
-		<property name="password" value="a" />
+		<property name="password" value="mysqladmin" />
 	</bean>
 
 	<!-- Configure Hibernate 5 Session Facotry -->
